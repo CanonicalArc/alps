@@ -1,0 +1,16 @@
+locale: ja
+source_locale: en
+status: reviewed
+# Each key is a Japanese file and each source is its English file. Paths are
+# relative to the directory containing this manifest. Update
+# reviewed_source_sha256 after reviewing the translation against the source.
+sources:
+  SKILL.ja.md:
+    source: ../../../SKILL.md
+    reviewed_source_sha256: 5bd3063de9ccd9c200e9e8bba4e732794c83c2a73d0062d6b95097bb3b8d83ef
+  agent-work-system-design.md:
+    source: ../../agent-work-system-design.md
+    reviewed_source_sha256: c09ea7e2e9c11a2e30896d5c514949b4851175178998f4323c3bf660faf4fd79
+  examples.md:
+    source: ../../examples.md
+    reviewed_source_sha256: 4a38fcfdc1a3ca685e136959cc0dcae9ef5f9d6ad235f9bb999e5b8afb87de0f

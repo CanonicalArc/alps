@@ -1,0 +1,22 @@
+{
+  "name": "alps",
+  "version": "0.9.0",
+  "description": "Design the meaning of work and the agent work system that realizes it.",
+  "author": {
+    "name": "CanonicalArc"
+  },
+  "homepage": "https://github.com/CanonicalArc/alps",
+  "repository": "https://github.com/CanonicalArc/alps",
+  "license": "Apache-2.0",
+  "keywords": [
+    "agent-plugins",
+    "agent-skills",
+    "process",
+    "process-description",
+    "agent-work-system",
+    "design",
+    "alps"
+  ],
+  "logo": "assets/icon.svg",
+  "skills": "skills/"
+}
